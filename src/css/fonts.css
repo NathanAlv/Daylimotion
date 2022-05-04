@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "title";
+  src: url(/fonts/BebasNeue-Regular.ttf);
+}
+
+@font-face {
+  font-family: "regular";
+  src: url(/fonts/Rajdhani-Medium.ttf);
+}
